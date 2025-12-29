@@ -17,7 +17,7 @@
 	"api": { "include": [ "include/*.hpp" ] },
 	"tags": ["cheat", "gameplay", "utility", "customization", "interface"],
 	"developers": ["Eclipse Team", "ninXout", "Prevter", "maxnu", "Firee", "SpaghettDev"],
-	"description": "A next-generation mod menu for Geometry Dash.",
+	"description": "A fork of eclipse mod menu with added Erame Extrapolation from the QOLMod.",
 	"early-load": true,
 	"incompatibilities": [{
 		"id": "prevter.openhack",
